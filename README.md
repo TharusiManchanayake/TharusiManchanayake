@@ -1,89 +1,114 @@
-<h1 align="center">Hi 👋, I'm Tharusi Manchanayake</h1>
+<div align="center">
 
-<h3 align="center">BSc (Hons) Information Systems | Sabaragamuwa University, Sri Lanka</h3>
+<img src="https://github.com/TharushiManchanayake/TharushiManchanayake/raw/main/catpush.gif" width="120" alt="cat typing gif"/>
 
-<p align="center">
-  <img src="catpush.gif" alt="cat push animation" width="300"/>
-</p>
+# Hi, I'm Tharushi Manchanayake 👋
+
+**BSc Hons in Information Systems** · Sabaragamuwa University of Sri Lanka
+
+*Building tech that's as intentional as it is beautiful.*
+
+[![GitHub followers](https://img.shields.io/github/followers/TharushiManchanayake?style=flat&color=f4a9c0&labelColor=1a1a2e)](https://github.com/TharushiManchanayake)
+![Profile Views](https://komarev.com/ghpvc/?username=TharushiManchanayake&color=f4a9c0&style=flat)
+
+</div>
 
 ---
 
-## 🌟 About Me
+## ✦ About Me
 
-I am an Information Systems undergraduate passionate about building meaningful digital solutions that improve everyday life.
+I'm a developer who sees the world through an artistic lens — with a business mind underneath.
 
-I see the world with a creative and artistic mindset, combined with a strong interest in business and technology. My goal is to transform real-world problems into simple, user-friendly digital experiences.
+My work sits at the intersection of **technology**, **aesthetics**, and **real-world impact**. I care deeply about food and culture, beauty, interior design, and quality of life — and I believe software can genuinely improve how people live. Whether it's a mobile app or a web experience, I design and build solutions that are thoughtful, functional, and beautiful.
 
-I am especially interested in:
-- 📱 Mobile App Development
-- 🌐 Web Development
-- 🍲 Food & Culture inspired solutions
-- 💄 Beauty & Lifestyle tech ideas
-- 🏡 Interior design & quality-of-life improvement systems
-
-I enjoy creating applications that are not just functional, but also visually appealing and impactful.
+> *Tech is my tool. Quality of life is my goal.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C
+<details open>
+<summary><strong>Languages</strong></summary>
 
-### 📱 Mobile Development
-- React Native
-- Expo
-- Android SDK
+`JavaScript` `TypeScript` `Python` `Java` `C`
 
-### 🌐 Frontend Development
-- React.js
-- Next.js
-- HTML / CSS
-- Tailwind CSS
+</details>
 
-### ⚙️ Backend Development
-- Node.js
-- Express.js
+<details open>
+<summary><strong>Mobile Development</strong></summary>
 
-### 🗄️ Databases
-- Supabase (PostgreSQL)
-- Firebase Firestore
-- MySQL
-- MongoDB
+`React Native` `Expo` `Android SDK`
 
-### 🔧 Tools & DevOps
-- Git & GitHub
-- VS Code
-- Postman
-- Docker
-- Expo CLI
+</details>
 
----
+<details open>
+<summary><strong>Frontend</strong></summary>
 
-## 🚀 What I’m Currently Working On
+`React.js` `Next.js` `HTML/CSS` `Tailwind CSS`
 
-🥫 **PantryPal** – A smart pantry management mobile app that helps users track food inventory, reduce waste, and manage expiry dates efficiently.
+</details>
 
----
+<details open>
+<summary><strong>Backend</strong></summary>
 
-## 🎯 My Vision
+`Node.js` `Express.js`
 
-To combine technology, design thinking, and business insight to create digital products that solve real-world problems and enhance quality of life.
+</details>
+
+<details open>
+<summary><strong>Databases</strong></summary>
+
+`Supabase PostgreSQL` `Firebase Firestore` `MySQL` `MongoDB`
+
+</details>
+
+<details open>
+<summary><strong>Tools & DevOps</strong></summary>
+
+`Git` `GitHub` `VS Code` `Postman` `Docker` `Expo CLI`
+
+</details>
 
 ---
 
-## 📫 Connect With Me
+## 🌸 What Drives Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🌐 Portfolio: Coming soon  
+```
+Food & Culture   →   Building apps that celebrate local flavours and stories
+Beauty           →   Crafting UIs that feel effortless and considered
+Interior Design  →   Thinking in space, structure, and harmony
+Quality of Life  →   Solving everyday friction with elegant tech
+```
+
+I'm drawn to **mobile and web development** because they meet people where they already are — on their phones, in their browsers, in their daily routines. My goal is to create experiences that don't just work, but *feel right*.
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Tharushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TharushiManchanayake&show_icons=true&theme=rose_pine&hide_border=true&title_color=f4a9c0&icon_color=f4a9c0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharushiManchanayake&layout=compact&theme=rose_pine&hide_border=true&title_color=f4a9c0)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharushi%20Manchanayake-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/tharushi-manchanayake)
+[![Email](https://img.shields.io/badge/Email-say%20hello-f4a9c0?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+*Open to collaborations, freelance work, and interesting conversations.*
+
+</div>
+
+---
+
+<div align="center">
+<sub>Made with intention ✦ Tharushi Manchanayake</sub>
+</div>
