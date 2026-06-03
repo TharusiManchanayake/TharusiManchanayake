@@ -1,93 +1,114 @@
-<h1 align="center">Hi 👋, I'm Tharusi Manchanayake</h1>
-<h3 align="center">Mobile App Developer | Software Engineering Student | Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+App+Developer;React+Native+Enthusiast;Building+PantryPal;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+<img src="https://github.com/TharushiManchanayake/TharushiManchanayake/raw/main/catpush.gif" width="120" alt="cat typing gif"/>
+
+# Hi, I'm Tharushi Manchanayake 👋
+
+**BSc Hons in Information Systems** · Sabaragamuwa University of Sri Lanka
+
+*Building tech that's as intentional as it is beautiful.*
+
+[![GitHub followers](https://img.shields.io/github/followers/TharushiManchanayake?style=flat&color=f4a9c0&labelColor=1a1a2e)](https://github.com/TharushiManchanayake)
+![Profile Views](https://komarev.com/ghpvc/?username=TharushiManchanayake&color=f4a9c0&style=flat)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## ✦ About Me
 
-🎓 Software Engineering Student
+I'm a developer who sees the world through an artistic lens — with a business mind underneath.
 
-📱 Currently building **PantryPal** – a smart kitchen inventory and expiry management app
+My work sits at the intersection of **technology**, **aesthetics**, and **real-world impact**. I care deeply about food and culture, beauty, interior design, and quality of life — and I believe software can genuinely improve how people live. Whether it's a mobile app or a web experience, I design and build solutions that are thoughtful, functional, and beautiful.
 
-🌱 Learning **React Native, Expo, Supabase, and Mobile App Development**
-
-💡 Interested in:
-- Mobile Applications
-- UI/UX Design
-- Food Technology Solutions
-- Smart Household Systems
-
-🎯 Goal: Become a professional software engineer and build products that solve real-world problems.
+> *Tech is my tool. Quality of life is my goal.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<details open>
+<summary><strong>Languages</strong></summary>
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+`JavaScript` `TypeScript` `Python` `Java` `C`
 
-### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<details open>
+<summary><strong>Mobile Development</strong></summary>
+
+`React Native` `Expo` `Android SDK`
+
+</details>
+
+<details open>
+<summary><strong>Frontend</strong></summary>
+
+`React.js` `Next.js` `HTML/CSS` `Tailwind CSS`
+
+</details>
+
+<details open>
+<summary><strong>Backend</strong></summary>
+
+`Node.js` `Express.js`
+
+</details>
+
+<details open>
+<summary><strong>Databases</strong></summary>
+
+`Supabase PostgreSQL` `Firebase Firestore` `MySQL` `MongoDB`
+
+</details>
+
+<details open>
+<summary><strong>Tools & DevOps</strong></summary>
+
+`Git` `GitHub` `VS Code` `Postman` `Docker` `Expo CLI`
+
+</details>
 
 ---
 
-## 📌 Current Project
+## 🌸 What Drives Me
 
-### 🥫 PantryPal
-A smart pantry management mobile application that helps users:
+```
+Food & Culture   →   Building apps that celebrate local flavours and stories
+Beauty           →   Crafting UIs that feel effortless and considered
+Interior Design  →   Thinking in space, structure, and harmony
+Quality of Life  →   Solving everyday friction with elegant tech
+```
 
-✅ Track food inventory
-
-✅ Monitor expiry dates
-
-✅ Receive expiry notifications
-
-✅ Reduce food waste
-
-✅ Organize household groceries efficiently
+I'm drawn to **mobile and web development** because they meet people where they already are — on their phones, in their browsers, in their daily routines. My goal is to create experiences that don't just work, but *feel right*.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TharusiManchanayake&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TharusiManchanayake&theme=tokyonight"/>
-</p>
+<div align="center">
+
+![Tharushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TharushiManchanayake&show_icons=true&theme=rose_pine&hide_border=true&title_color=f4a9c0&icon_color=f4a9c0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharushiManchanayake&layout=compact&theme=rose_pine&hide_border=true&title_color=f4a9c0)
+
+</div>
 
 ---
 
-## 🌟 Quote
+## 📬 Let's Connect
 
-> "Small progress every day leads to big results."
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharushi%20Manchanayake-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/tharushi-manchanayake)
+[![Email](https://img.shields.io/badge/Email-say%20hello-f4a9c0?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-## 📫 Connect With Me
+*Open to collaborations, freelance work, and interesting conversations.*
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: www.linkedin.com/in/your-linkedin
-
-🌍 Portfolio: Coming Soon...
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
-
+<div align="center">
+<sub>Made with intention ✦ Tharushi Manchanayake</sub>
+</div>
