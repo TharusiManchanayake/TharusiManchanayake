@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharusi Manchanayake</h1>
+<h1 align="center">Hi 👋, I'm Tharusi Manchanayakel</h1>
 
 <h3 align="center">BSc (Hons) Information Systems | Sabaragamuwa University, Sri Lanka</h3>
 
