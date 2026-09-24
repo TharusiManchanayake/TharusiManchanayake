@@ -108,8 +108,8 @@ I am particularly interested in combining **technology, creative thinking, and b
 
 ## 📫 Connect With Me
 
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+📧 **Email:** tharusimanchanayake45@gmail.com
+💼 **LinkedIn:**  
 🌐 **Portfolio:** Coming soon
 
 ---
