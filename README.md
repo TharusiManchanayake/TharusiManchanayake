@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tharusi Manchanayakel</h1>
+<h1 align="center">Hi 👋, I'm Tharusi Manchanayake</h1>
 
-<h3 align="center">BSc (Hons) Information Systems | Sabaragamuwa University, Sri Lanka</h3>
+<h3 align="center">Information Systems Undergraduate | Full Stack Developer</h3>
 
 <p align="center">
   <img src="catpush.gif" alt="cat push animation" width="300"/>
@@ -10,18 +10,20 @@
 
 ## 🌟 About Me
 
-I am an Information Systems undergraduate passionate about building meaningful digital solutions that improve everyday life.
+I am an Information Systems undergraduate at **Sabaragamuwa University, Sri Lanka**, with a strong interest in **Full Stack Development and Software Engineering**.
 
-I see the world with a creative and artistic mindset, combined with a strong interest in business and technology. My goal is to transform real-world problems into simple, user-friendly digital experiences.
+I enjoy building practical, user-focused applications by combining modern frontend technologies, backend development, databases, and thoughtful UI design.
 
-I am especially interested in:
-- 📱 Mobile App Development
-- 🌐 Web Development
-- 🍲 Food & Culture inspired solutions
-- 💄 Beauty & Lifestyle tech ideas
-- 🏡 Interior design & quality-of-life improvement systems
+I am a quick learner with a strong technical foundation and good interpersonal skills, always interested in learning new technologies and turning real-world problems into simple and effective digital solutions.
 
-I enjoy creating applications that are not just functional, but also visually appealing and impactful.
+### 💡 Areas of Interest
+
+- 🌐 Full Stack Web Development
+- ⚙️ Backend & API Development
+- 🗄️ Database Design & Management
+- 📱 Mobile Application Development
+- 🎨 User-Focused & Responsive Interfaces
+- 💡 Real-World Problem Solving
 
 ---
 
@@ -34,28 +36,30 @@ I enjoy creating applications that are not just functional, but also visually ap
 - Java
 - C
 
-### 📱 Mobile Development
-- React Native
-- Expo
-- Android SDK
-
 ### 🌐 Frontend Development
 - React.js
 - Next.js
-- HTML / CSS
+- HTML5
+- CSS3
 - Tailwind CSS
 
 ### ⚙️ Backend Development
 - Node.js
 - Express.js
+- REST APIs
 
 ### 🗄️ Databases
-- Supabase (PostgreSQL)
-- Firebase Firestore
 - MySQL
+- PostgreSQL / Supabase
 - MongoDB
+- Firebase Firestore
 
-### 🔧 Tools & DevOps
+### 📱 Mobile Development
+- React Native
+- Expo
+- Android SDK
+
+### 🔧 Tools & Technologies
 - Git & GitHub
 - VS Code
 - Postman
@@ -64,23 +68,49 @@ I enjoy creating applications that are not just functional, but also visually ap
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚀 Featured Projects
 
-🥫 **PantryPal** – A smart pantry management mobile app that helps users track food inventory, reduce waste, and manage expiry dates efficiently.
+### 🏙️ MyCity
+A civic issue reporting and city management platform designed to connect citizens with municipal services.
+
+**Tech:** Next.js, React, Express.js, MySQL, Sequelize, JWT
+
+---
+
+### 🏠 Sakura Interior Designers
+A modern interior design and e-commerce web application featuring portfolio showcases, design categories, and responsive user interfaces.
+
+**Tech:** React.js, Vite, Tailwind CSS
+
+---
+
+### 🥫 PantryPal
+A smart household pantry management mobile application that helps users track food inventory and manage expiry dates efficiently.
+
+**Tech:** React Native, Expo, Supabase
+
+---
+
+### 🚌 RouteMe
+A public bus tracking application designed to help passengers find routes, track buses in real time, and receive travel-related updates.
+
+**Tech:** Next.js, React, Node.js, Express.js, MySQL
 
 ---
 
 ## 🎯 My Vision
 
-To combine technology, design thinking, and business insight to create digital products that solve real-world problems and enhance quality of life.
+To grow as a **Full Stack Developer** by building scalable, user-focused applications and continuously improving my skills in software development, system design, and modern web technologies.
+
+I am particularly interested in combining **technology, creative thinking, and business understanding** to develop solutions that solve real-world problems.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🌐 Portfolio: Coming soon  
+📧 **Email:** your-email@example.com  
+💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+🌐 **Portfolio:** Coming soon
 
 ---
 
