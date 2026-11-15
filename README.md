@@ -112,7 +112,7 @@ I am particularly interested in combining **technology, creative thinking, and b
 ## 📫 Connect With Me
 
 📧 **Email:** tharusimanchanayake45@gmail.com
-💼 **LinkedIn:**  
+💼 **LinkedIn:** www.linkedin.com/in/tharusi-manchanayake
 🌐 **Portfolio:** Coming soon
 
 ---
