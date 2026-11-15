@@ -71,10 +71,12 @@ I am a quick learner with a strong technical foundation and good interpersonal s
 
 ## 🚀 Featured Projects
 
-### 🏙️ MyCity
-A civic issue reporting and city management platform designed to connect citizens with municipal services.
 
-**Tech:** Next.js, React, Express.js, MySQL, Sequelize, JWT
+### 🚌 RouteMe
+A public bus tracking application designed to help passengers find routes, track buses in real time, and receive travel-related updates.
+
+**Tech:** Next.js, React, Node.js, Express.js, MySQL
+
 
 ---
 
@@ -92,10 +94,10 @@ A smart household pantry management mobile application that helps users track fo
 
 ---
 
-### 🚌 RouteMe
-A public bus tracking application designed to help passengers find routes, track buses in real time, and receive travel-related updates.
+### 🏙️ MyCity
+A civic issue reporting and city management platform designed to connect citizens with municipal services.
 
-**Tech:** Next.js, React, Node.js, Express.js, MySQL
+**Tech:** Next.js, React, Express.js, MySQL, Sequelize, JWT
 
 ---
 
