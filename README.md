@@ -58,6 +58,7 @@ I am a quick learner with a strong technical foundation and good interpersonal s
 - React Native
 - Expo
 - Android SDK
+- Flutter
 
 ### 🔧 Tools & Technologies
 - Git & GitHub
