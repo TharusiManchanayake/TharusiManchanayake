@@ -110,10 +110,11 @@ I am particularly interested in combining **technology, creative thinking, and b
 ---
 
 ## 📫 Connect With Me
+## 📬 Connect With Me
 
-📧 **Email:** tharusimanchanayake45@gmail.com
-💼 **LinkedIn:** www.linkedin.com/in/tharusi-manchanayake
-🌐 **Portfolio:** https://tharusi-portfolio.vercel.app/
+- 📧 **Email:** [tharusimanchanayake45@gmail.com](mailto:tharusimanchanayake45@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tharusi-manchanayake](https://www.linkedin.com/in/tharusi-manchanayake)
+- 🌐 **Portfolio:** [tharusi-portfolio.vercel.app](https://tharusi-portfolio.vercel.app/)
 
 ---
 
