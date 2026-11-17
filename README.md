@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharusi Manchanayake</h1>
+<h1 align="center">Hi 👋, I'm Tharusi   Nawodya</h1>
 
 <h3 align="center">Information Systems Undergraduate | Full Stack Developer</h3>
 
